@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default (params) => 
+export default (props) => 
     <div>
         Hello from exercise
     </div>

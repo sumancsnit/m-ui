@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from 'react'
-import Footer from './Components/Layouts/Footer'
-import Header from './Components/Layouts/Header'
+import {Header, Footer} from './Components/Layouts'
 import Exercise from './Components/Exercises'
 
 
